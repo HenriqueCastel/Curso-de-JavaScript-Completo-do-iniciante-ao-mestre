@@ -1,3 +1,8 @@
+Requisitos
+Noções de sistema operacional
+Conhecimentos básicos de HTML e CSS
+Conhecimentos básicos de lógica de programação (Se voce sabe o que é uma função, um loop, um if e um switch, chega mais que esse curso é pra você)
+Descrição
 Com este treinamento você será capaz de desenvolver seus códigos javascript para sites e sistemas que rodam no browser. 
 
 O objetivo é fazer você conseguir desenvolver vários tipos de projetos e módulos como popular uma página usando requisições ajax, validação de formulários, persisitir dados localmente no browser e diversos outros exemplos práticos que vão fazer você pensar como um desenvolvedor front-end de verdade.
