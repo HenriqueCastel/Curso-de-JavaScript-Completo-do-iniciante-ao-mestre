@@ -1,14 +1,14 @@
-#JavaScript,TypeScript, NodeJS, MongoDB, Regex, Ajax, OOP, MVC, ES Modules, Webpack, e muito mais
+# JavaScript,TypeScript, NodeJS, MongoDB, Regex, Ajax, OOP, MVC, ES Modules, Webpack, e muito mais
 
-##Criado por Daniel Tapias Morales, serfrontend cursos
+## Criado por Daniel Tapias Morales, serfrontend cursos
 
-##Requisitos
+## Requisitos
 
 Noções de sistema operacional
 Conhecimentos básicos de HTML e CSS
 Conhecimentos básicos de lógica de programação (Se voce sabe o que é uma função, um loop, um if e um switch, chega mais que esse curso é pra você)
 
-##Descrição
+## Descrição
 
 Com este treinamento você será capaz de desenvolver seus códigos javascript para sites e sistemas que rodam no browser. 
 O objetivo é fazer você conseguir desenvolver vários tipos de projetos e módulos como popular uma página usando requisições ajax, validação de formulários, persisitir dados localmente no browser e diversos outros exemplos práticos que vão fazer você pensar como um desenvolvedor front-end de verdade.
@@ -33,7 +33,7 @@ Webpack e babel para criar aplicações cross-browser
 
 Atenção. Apesar de constar na grade curricular uma seção onde faço um revisão de lógica de programação, esse curso tem este assunto como pré-requisito. Se você já sabe o que é uma função, um loop, um if e um switch, então esse curso foi feito pra você.
 
-##Para quem é este curso:
+## Para quem é este curso:
 
 Pessoas interessadas na área de desenvolvimento web
 Aspirantes a programadores front-end
