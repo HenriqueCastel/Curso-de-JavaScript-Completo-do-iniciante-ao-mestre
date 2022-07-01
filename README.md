@@ -16,7 +16,7 @@ Se quer aprender tudo de javascript, está no lugar certo.
 Eeste curso aborda, além do Javascript de forma completa, os seguintes assuntos:
 Typescript
 O curso também aborda o Typescript, que é uma camada extra ao javascript que adiciona tipagem de dados, o que dá muito mais segurança para quem está desenvolvendo.
-NodeJS
+##### NodeJS
 Apresenta uma introdução de como trabalhar com javascript no servidor com o NodeJS
 MongoDB e Mongoose
 Criamos uma pequena aplicação Rest que consome dados armazenados no MongoDB
